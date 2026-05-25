@@ -5,7 +5,7 @@
 **Student Grade Tracker** is a professional-grade Java desktop application for managing student grades with advanced features including weighted scoring, GPA calculation, statistics analysis, and data persistence.
 
 **Version:** 1.0  
-**Author:** Student Grade Tracker Team  
+**Author:** Muhammad Essa Arijo  
 **Built with:** Java Swing + AWT
 
 ---
